@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>site de la team akatsuki</title>
+        <meta charset="utf-8">
+     
+        
+        <body>
+              
+            <div id="carte">     
+
+            <h1>bonjour</h1>
+            <link rel="stylesheet" href="style.css">
+            <img src="https://media2.giphy.com/media/3og0ItMYyKL4ApMdnG/200w.webp?cid=ecf05e47acra8jhijq55bxz2ibwsfpsfq4qaw0heorzbshjb&rid=200w.webp&ct=g">
+            <h3>si tu es ici c'est pour rejoindre la team akatsuki
+            sur l'image du boutton un questionnaire qui te permet de rejoindre la team et l'image de discorde pour rejoindre le serveur</h3>
+            
+             <ul>
+                <li> <a href="https://forms.gle/tnqYmgEJpu2WMs4JA"tout d'abord tu dois repondre a un questionnaire<br> <img src="https://findicons.com/files/icons/109/play_stop_pause/256/recordpressed.png"</li></a>
+
+
+                </ul>
+
+
+
+          <a href="suite test.html"><button>page secrete</button><a>
+        </body>
+
+    </head> 
